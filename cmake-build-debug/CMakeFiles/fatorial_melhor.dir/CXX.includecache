@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/fatorial_melhor/Fatorial.hpp
+iostream
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/fatorial_melhor/main.cpp
+Fatorial.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/fatorial_melhor/Fatorial.hpp
+
