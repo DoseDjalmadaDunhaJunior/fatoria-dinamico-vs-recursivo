@@ -1,9 +1,9 @@
 #include "Fatorial.hpp"
 int main() {
     Fatorial oi;
-    oi.fat(15);
+    //cout<<oi.fat(50)<<endl;
     //puts("======================");
-    //oi.fat(20);
-    //oi.dinamicoLeve(15);
+    //cout<<oi.rec(50)<<endl;
+    cout<<oi.dinamicoLeve(50)<<endl;
     return 0;
 }
